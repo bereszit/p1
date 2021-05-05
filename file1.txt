@@ -4,4 +4,5 @@ case class Tomak(a: String)
 
 object Tomak{
 	val b: String = "OKO"
+	val c: String = "NOGA"
 }
