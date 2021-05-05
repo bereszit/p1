@@ -1,0 +1,7 @@
+import test
+
+case class Tomak(a: String)
+
+object Tomak{
+	val b: String = "OKO"
+}
